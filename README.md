@@ -12,6 +12,7 @@ Left pane→Access Management→Users→TTTAdmin→Security credentials → HTTP
 Clone the repository:
 Copy github repo URL
 Top pane→ AWS CloudShell 
+```
 $ git clone <name of your newly created empty repo>
 For username: <Enter your username on git>
 For password: <Enter your generated token on git>
@@ -22,7 +23,7 @@ $ git commit -m “Initial commit”
 $ git push
 For username: <Enter your username on TTTAdmin HTTPS credentials>
 For password: <Enter your TTTAdmin HTTPS password>
-
+```
 
 Search for AWS Amplify
 Click “New app”
